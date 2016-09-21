@@ -20,6 +20,8 @@
 
 #####OSS Component Database - This is the database that stores the Software Package License Results for retrieval.
 
+#####NIST Vulnerability Database - A database that publishes known vulnerabilities in OSS packages.
+
 
 
 

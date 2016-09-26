@@ -29,7 +29,7 @@
 ###Title:
     Add Software to the OSS Component Database
 ###Primary Actor:
-    Corporate Developer
+    Developer
 ###Goal in Context:
     The developer is able to scan a new piece of software for 
     vulnerabilities and OSS licenses and then add that software to the 
@@ -47,3 +47,30 @@
 ###Trigger:
     Developer submits a piece of software that is then tested for vulnerabilities 
     and OSS Licenses
+
+
+#Use Case 3
+
+###Title:
+    Update software in the OSS Component database
+###Primary Actor:
+    Developer
+###Goal in Context:
+    The developer is able to update the software's OSS licenses and vulnerabilities
+    in the OSS Component database after the software has changed or vulnerabilities
+    have been discovered or fixed.
+###Preconditions:
+    The software must already be in the OSS Component database
+    Vulnerabilities must be listed in the NIST Vulnerability database
+    The software or vulnerabilities must have changed
+###Main Success Scenario:
+    The developer submits a piece of software that is already in the OSS Component
+    database and the software is scanned for OSS licenses and vulnerabilities and 
+    the results are added to the OSS Component database
+###Failed End Conditions:
+    The software is not in the OSS Component database
+    The OSS liceneses or vulnerabilities have not changed
+###Trigger:
+    The developer submits a piece of software that is already in the OSS Component
+    database that they believe has changed. It is then scanned and the results are 
+    added to the OSS Database.

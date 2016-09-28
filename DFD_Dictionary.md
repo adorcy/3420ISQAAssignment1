@@ -16,6 +16,8 @@
 
 ###Policy documents request results  - This is the data that the OSS Source policy documents database returns to the developer or manager
 
+###Policy document information to be updated or modified - This is the information that a manager submits to the OSS Source policy documents database to change
+
 ####Manage Software Package for License Scanning - A process which handles the software package scanning and sends the Software Package License Results to the database and the developer.
 
 ####Scan for Licenses - The process that scans the submitted software for OSS licenses and returns the results to the Manage Software Package for License Scanning process.
@@ -23,6 +25,8 @@
 ####Query Database for Packages and Associated Licenses based on project information - This is the process that handles the developer and manager Project information and Corresponding Licenses Request requests.
 
 ####Query database for policy documents based on project information - This is the process that handles the developer and manager policy documents request requests
+
+####Update or modify the information in the OSS Source policy documents database - This is the process that allows a manager to update or modify the contents of the OSS Source policy documents database 
 
 #####OSS Component Database - This is the database that stores the Software Package License Results for retrieval.
 

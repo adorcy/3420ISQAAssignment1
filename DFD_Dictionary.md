@@ -8,9 +8,9 @@
 
 ###Software Package License Results - The OSS component results of the Scan for Licenses process.
 
-###Project information and Corresponding Licenses Request - This is the data that managers request from the OSS Component Database.
+###Project information and Corresponding Licenses Request - This is the data that developers or managers request from the OSS Component Database.
 
-###Project information and Corresponding Licenses Request Results - This is the data that the OSS Component Database returns to the Manager.
+###Project information and Corresponding Licenses Request Results - This is the data that the OSS Component Database returns to the Developer or Manager.
 
 ###Policy documents request - this is the data that the developer or manager is requesting from the OSS Source policy documents database
 

@@ -6,20 +6,21 @@
     Manager
 ###Goal in Context: 
     The manager is able to determine license and vulnerability
-    information from provided software information
+    information from provided project information
 ###Stakeholders:
-    Manager: To receive clear and relevant information
+    Manager: To receive clear and relevant project information
     Developer: To provide the relevant file/package level information
 ###Preconditions:
     Relevant software information is in the OSS component database
+    Proper project information has been provided 
 ###Main Success Scenario: 
     Manager receives accurate license and vulnerability
-    information for the software packages
+    information for the requested project packages
 ###Failed End Conditions: 
     Manager receives inaccurate or invalid license and
-    vulnerability information for the software packages
+    vulnerability information for the requested project packages
 ###Trigger: 
-    Manager identifies software to which license and
+    Manager identifies peoject information to which license and
     vulnerability information is provided
 
 

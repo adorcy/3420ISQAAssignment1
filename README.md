@@ -1,4 +1,4 @@
-# 3420ISQAAssignment1
+# 3420 ISQA Assignment 1
 
 This is the README file.
 

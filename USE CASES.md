@@ -52,25 +52,22 @@
 #Use Case 3
 
 ###Title:
-    Update software in the OSS Component database
+    Manager can update OSS Policies
 ###Primary Actor:
-    Developer
+    Manager
 ###Goal in Context:
-    The developer is able to update the software's OSS licenses and vulnerabilities
-    in the OSS Component database after the software has changed or vulnerabilities
-    have been discovered or fixed.
+    The Manager is able to update the company's OSS licenses and vulnerabilities 
+    policies in the OSS Source policy documents database.
 ###Preconditions:
-    The software must already be in the OSS Component database
-    Vulnerabilities must be listed in the NIST Vulnerability database
-    The software or vulnerabilities must have changed
+    The policy the manager wants to update must be in the database
+    The manager must have changes to make to the policy
 ###Main Success Scenario:
-    The developer submits a piece of software that is already in the OSS Component
-    database and the software is scanned for OSS licenses and vulnerabilities and 
-    the results are added to the OSS Component database
+    The Manager submits a change to a policy document already in the OSS Source 
+    policy documents database and the changes are stored in the database.
 ###Failed End Conditions:
-    The software is not in the OSS Component database
-    The OSS liceneses or vulnerabilities have not changed
+    The policy that is being changed is not in the database
+    The Manager does not make any changes to the policy
 ###Trigger:
-    The developer submits a piece of software that is already in the OSS Component
-    database that they believe has changed. It is then scanned and the results are 
-    added to the OSS Database.
+    The Manager submits a policy document with changed information to the OSS Source 
+    policy documents database. Those changes are then stored on the database.
+

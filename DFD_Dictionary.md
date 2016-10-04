@@ -6,11 +6,11 @@
 
 ###Software Package - The software that a developer submits to be scanned for OSS licenses
 
-###Software Package License Results - The OSS component results of the Scan for Licenses process.
+###Software Package License and vulnerabilities Results - The OSS component results of the Scan for Licenses process.
 
-###Project information and Corresponding Licenses Request - This is the data that developers or managers request from the OSS Component Database.
+###Project information and Corresponding Licenses and vulnerabilities Request - This is the data that developers or managers request from the OSS Component Database.
 
-###Project information and Corresponding Licenses Request Results - This is the data that the OSS Component Database returns to the Developer or Manager.
+###Project information and Corresponding Licenses and vulnerabilities Request Results - This is the data that the OSS Component Database returns to the Developer or Manager.
 
 ###Policy documents request - this is the data that the developer or manager is requesting from the OSS Source policy documents database
 
@@ -22,7 +22,7 @@
 
 ####Scan for Licenses - The process that scans the submitted software for OSS licenses and returns the results to the Manage Software Package for License Scanning process.
 
-####Query Database for Packages and Associated Licenses based on project information - This is the process that handles the developer and manager Project information and Corresponding Licenses Request requests.
+####Query Database for Packages and Associated Licenses and vulnerabilities based on project information - This is the process that handles the developer and manager Project information and Corresponding Licenses Request requests.
 
 ####Query database for policy documents based on project information - This is the process that handles the developer and manager policy documents request requests
 

@@ -20,7 +20,7 @@
     Manager receives inaccurate or invalid license and
     vulnerability information for the requested project packages
 ###Trigger: 
-    Manager identifies peoject information to which license and
+    Manager identifies project information to which license and
     vulnerability information is provided
 
 
@@ -49,7 +49,7 @@
     and OSS Licenses
 
 
-#Use Case 3
+#Use Case 3 -- I don't think that you actually do this in your DFD. Not to say that it would be a bad use case, I just don't think that Developers can currently update exisitng information in the DB, based on your existing DFD. I think that a better case here would be that the Manager can update OSS policy. Or, the developer or manager and retrieve OSS Project License and Vulnerability Information. 
 
 ###Title:
     Update software in the OSS Component database

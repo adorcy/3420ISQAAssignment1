@@ -6,7 +6,9 @@
 
 ###Software Package - The software that a developer submits to be scanned for OSS licenses
 
-###Software Package License and vulnerabilities Results - The OSS component results of the Scan for Licenses process.
+###Software Package License Results - The OSS component results of the Scan for Licenses process
+
+###Software Package License and vulnerabilities Results - The OSS results of the Scan for Licenses process and NIST Vulnerability database results.
 
 ###Project information and Corresponding Licenses and vulnerabilities Request - This is the data that developers or managers request from the OSS Component Database.
 
@@ -18,7 +20,7 @@
 
 ###Policy document information to be created or modified - This is the information that a manager submits to the OSS Source policy documents database to change
 
-####Manage Software Package for License Scanning - A process which handles the software package scanning and sends the Software Package License Results to the database and the developer.
+####Manage Software Package for License and vulnerability Scanning - A process which handles the software package scanning and sends the Software Package License Results to the database and the developer.
 
 ####Scan for Licenses - The process that scans the submitted software for OSS licenses and returns the results to the Manage Software Package for License Scanning process.
 

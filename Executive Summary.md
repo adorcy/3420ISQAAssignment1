@@ -1,1 +1,6 @@
-This repository contains the DFD, DFD Dictionary, and Use Cases for a company's open source software, (OSS) management. The process it describes provides developers a means to add or request OSS information. It also allows managers to request software documentation and policies as well as the ability to modify or add OSS policies. This is an important system for a business to have as managing the licesenses and vulnerabilities of OSS can be a daunting task with serious repurcussions if handled improperly. It also provides managers and developers with information that is vital to planning the design of new tools and technologies. 
+This repository contains the DFD, DFD Dictionary, and Use Cases for a company's open source software, (OSS) management. The process it 
+describes provides developers a means to add or request OSS information. It also allows managers to request software documentation and 
+policies as well as the ability to modify or add OSS policies. This is an important system for a business to have as managing the 
+licesenses and vulnerabilities of OSS can be a daunting task with serious repurcussions if handled improperly. It also provides managers 
+and developers with information that is vital to planning the design of new tools and technologies. 
+

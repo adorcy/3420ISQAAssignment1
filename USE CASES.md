@@ -32,11 +32,12 @@
     Developer
 ###Goal in Context:
     The developer is able to scan a new piece of software for 
-    vulnerabilities and OSS licenses and then add that software to the 
+    vulnerabilities and OSS licenses and then that software is added to the 
     OSS Component database
 ###Preconditions:
-    the developer must have a new software to add
-    Security vulnerabilites must be listed in the NIST Vulnerability database.
+    The developer must have a new software to add
+    Security vulnerabilites must be listed in the NIST Vulnerability database
+    The developer has access to a working license scanner
 ###Main Success Scenario:
     Developer submits new software to scan for licenses and vulnerabilities
     and the results are added to the OSS Component database
@@ -49,7 +50,7 @@
     and OSS Licenses
 
 
-#Use Case 3
+#Use Case 3 (this use case is not currently supported by your DFD - either rewrite this or update your DFD)
 
 ###Title:
     Manager can update OSS Policies
